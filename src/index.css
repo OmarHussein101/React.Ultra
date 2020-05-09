@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  width: 85%;
+  margin: auto;
+}
+
+.anchor {
+  display: block;
+  color: #222;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.anchor:hover {
+  color: #eb5424;
+}
+
+.profile_skills .skills .bar .parent span.sp1 {
+  width: 100%;
+}
+
+.profile_skills .skills .bar .parent span.sp2 {
+  width: 90%;
+}
+
+.profile_skills .skills .bar .parent span.sp3 {
+  width: 80%;
+}
